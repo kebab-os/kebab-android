@@ -4,6 +4,8 @@
 
 ---
 
+<br />
+
 ## Overview
 
 To successfully deploy the kebab-android dots, it is essential to follow a precise sequence of operations. This installation protocol is engineered to integrate the dots into your debug environment while preserving their robust feature set and ensuring seamless compatibility with the Android framework. By adhering to this structured workflow, you will navigate the setup from initial repository cloning to final device configuration.
