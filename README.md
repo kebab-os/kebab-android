@@ -31,7 +31,7 @@ git clone https://github.com/kebab-os/kebab-android.git
 2. `cd` into the source directory:
 
 ```bash
-cd src
+cd kebab-android/src
 ```
 
 3. Open your preferred debugger in the current directory
