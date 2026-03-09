@@ -1,0 +1,9 @@
+# Improve scrolling friction and touch response
+ro.min_pointer_duration=8
+windowsmgr.max_events_per_sec=150
+
+# Force dark mode at a system level
+ro.force.dark_mode=true
+
+# Custom Build Branding
+ro.custom.display.id=Minimalist-Edition-v1
