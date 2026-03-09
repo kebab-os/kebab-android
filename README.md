@@ -1,4 +1,5 @@
 <div align="right">
+  <img src="static/favicon.png" width="200px" height="auto" />
   <h1>kebab-android</h1>
   <b>🥙 Kebab android distribution</b>
   <hr />
