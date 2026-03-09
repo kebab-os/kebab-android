@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img src="static/favicon.png" width="200px" height="auto" />
   <h1>kebab-android v0.1.3</h1>
   <b>Android dots that make your mobile hyperfast, and easier to use</b>
