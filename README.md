@@ -11,6 +11,8 @@ kebab-android is a highly robust and specialized kebab distribution of the Andro
 
 By functioning as a dedicated distribution, it ensures that all internal components work in unison to deliver a reliable user experience tailored to this unique architecture.
 
+When you are read to go, read the [installation section](#installation) to get started.
+
 
 ## Installation
 
