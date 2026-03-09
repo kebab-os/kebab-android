@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Initialising kebab-android..."
 
 adb shell settings put secure navigation_mode 2 
