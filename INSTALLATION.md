@@ -31,7 +31,7 @@ git clone github.com
 3. Navigate to the Configuration Directory. Enter the specific directory containing the dotfiles to prepare for the build process.
 
 ```bash
-cd kebab-android/dots
+cd kebab-android/src
 ```
 
 5. Initialize the Debugger. Launch your preferred IDE or command-line debugger (such as Android Studio or VS Code) within this directory. Ensure the debugger has the necessary permissions to write to external devices.
