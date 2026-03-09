@@ -28,10 +28,10 @@ In order to successfully install the kebab-android dots, it is essential to foll
 git clone https://github.com/kebab-os/kebab-android.git
 ```
 
-2. `cd` into the dots directory:
+2. `cd` into the source directory:
 
 ```bash
-cd dots
+cd src
 ```
 
 3. Open your preferred debugger in the current directory
