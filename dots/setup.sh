@@ -1,7 +1,7 @@
 #!/bin/bash
 # Android Minimalist Setup - Performance & UI
 
-echo "🚀 Initialising modern environment..."
+echo "Initialising kebab-android..."
 
 # --- MODERN UI & UX ---
 # Enable full gesture navigation (removes buttons)
@@ -27,5 +27,7 @@ adb shell settings put system haptic_feedback_enabled 1
 # Use Cloudflare DNS for privacy and speed
 adb shell settings put global private_dns_mode "hostname"
 adb shell settings put global private_dns_specifier "1dot1dot1dot1.cloudflare-dns.com"
+
+echo "Completed kebab-android setup"
 
 echo "✅ UI transformation complete."
