@@ -19,6 +19,7 @@ When you are read to go, read the [installation section](#installation) to get s
 
 In order to successfully install the kebab-android dots, it is essential to follow a specific sequence of operations. This installation process is designed to ensure that the kebab-android dots are correctly installed onto the debug software, while maintaining the integrity of the dots’ robust features and ensuring full compatibility with the Android framework. By adhering to the following structured steps, you will be able to navigate the setup procedure from the initial preparation phase through to the final Android debug configuration.
 
+
 1. Clone the repo:
 
 ```bash
@@ -31,8 +32,16 @@ git clone https://github.com/kebab-os/kebab-android.git
 cd dots
 ```
 
-3. 
+3. Open your preferred debugger in the current directory
+4. Connect your computer to your android device, then run the debugger
+6. Wait until complete, then disconnect the devices
 
+If you have completed the steps correctly, the dots should be installed onto your Android device. If this has not worked, [raise and issue](https://github.com/kebab-os/kebab-android/issues/new/choose) on GitHub.
 
 > [!TIP]
 > For hyperfast install, run the [auto install script](install/auto.sh) to do it instantly.
+
+
+## License
+
+kebab-android is under the [MIT License](LICENSE).
