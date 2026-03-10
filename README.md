@@ -35,7 +35,7 @@ cd kebab-android/src
 ```
 
 3. Open your preferred debugger in the current directory
-4. Connect your computer to your android device, then run the debugger
+4. Connect your computer to your android device, then run the debugger for each of the files in the directory
 6. Wait until complete, then disconnect the devices
 
 If you have completed the steps correctly, the dots should be installed onto your Android device. If this has not worked, [raise and issue](https://github.com/kebab-os/kebab-android/issues/new/choose) on GitHub.
