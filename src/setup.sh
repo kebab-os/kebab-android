@@ -11,6 +11,6 @@ adb shell settings put min_refresh_rate 120.0
 adb shell settings put secure icon_blacklist "clock"
 adb shell settings put system haptic_feedback_enabled 1
 adb shell settings put global private_dns_mode "hostname"
-adb shell settings put global private_dns_specifier "1dot1dot1dot1.cloudflare-dns.com"
+adb shell settings put global private_dns_specifier "dns.adguard.com"
 
 echo "✅ Completed kebab-android setup"
